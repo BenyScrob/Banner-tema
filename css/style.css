@@ -1,0 +1,28 @@
+.text_pe_img
+{
+  position: relative;  
+ 
+}
+
+.text_pe_img .img
+{
+  width: 1335px;  
+  height:500px;
+  margin-bottom:30px;
+  
+}
+
+.text_pe_img .first-h1 
+{
+   color: black; 
+   font-family: FontAwesome; 
+   position: absolute;  
+   top: 55px; 
+   width: 1245px;
+}
+
+.main-picture .second-h1 
+{
+	margin-bottom: 30px; 
+}
+
